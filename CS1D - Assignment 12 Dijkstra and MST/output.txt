@@ -1,0 +1,67 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 4/14/2015
+ * ASIGNMENT #     : 12
+ * ASSIGNMENT NAME : Dijkstra & MST
+ *******************************************************************************/
+ 
+//////////////////////////////////////////////////////////////////
+                  Dijkstra's Algorithm						  
+/////////////////////////////////////////////////////////////////
+
+SEATTLE..SAN_FRAN..LOS_ANGELES..
+DISTANCE: 1188 MILES
+
+SEATTLE..SAN_FRAN..
+DISTANCE: 807 MILES
+
+SEATTLE..SEATTLE
+DISTANCE: 0 MILES
+
+SEATTLE..DENVER..
+DISTANCE: 1331 MILES
+
+SEATTLE..DENVER..KANSAS_CITY..DALLAS..HOUSTON..
+DISTANCE: 2665 MILES
+
+SEATTLE..DENVER..KANSAS_CITY..DALLAS..
+DISTANCE: 2426 MILES
+
+SEATTLE..DENVER..KANSAS_CITY..
+DISTANCE: 1930 MILES
+
+SEATTLE..CHICAGO..
+DISTANCE: 2097 MILES
+
+SEATTLE..DENVER..KANSAS_CITY..ATLANTA..MIAMI..
+DISTANCE: 3455 MILES
+
+SEATTLE..DENVER..KANSAS_CITY..ATLANTA..
+DISTANCE: 2794 MILES
+
+SEATTLE..CHICAGO..NEW_YORK..
+DISTANCE: 2884 MILES
+
+SEATTLE..CHICAGO..BOSTON..
+DISTANCE: 3080 MILES
+
+//////////////////////////////////////////////////////////////////
+                  MINIMUM SPANNING TREE						  
+/////////////////////////////////////////////////////////////////
+
+Edge                       Weight
+---------------------      ------
+LOS_ANGELES->SAN_FRAN      381
+SAN_FRAN->SEATTLE          807
+LOS_ANGELES->DENVER        1015
+DALLAS->HOUSTON            239
+KANSAS_CITY->DALLAS        496
+DENVER->KANSAS_CITY        599
+KANSAS_CITY->CHICAGO       533
+ATLANTA->MIAMI             661
+DALLAS->ATLANTA            781
+CHICAGO->NEW_YORK          787
+NEW_YORK->BOSTON           214
+--------------------------------------
+Total Distance:             6513 miles

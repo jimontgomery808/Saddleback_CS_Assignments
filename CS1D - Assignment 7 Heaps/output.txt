@@ -1,0 +1,29 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 3/10/2015
+ * ASIGNMENT #     : 7
+ * ASSIGNMENT NAME : Heaps
+ *******************************************************************************/
+
+Inserting value, and printing heap:
+
+Heap = 67 
+Heap = 67 88 
+Heap = 67 88 77 
+Heap = 52 67 77 88 
+Heap = 44 52 77 88 67 
+Heap = 11 52 44 88 67 77 
+Heap = 11 52 44 88 67 77 66 
+Heap = 11 52 44 88 67 77 66 93 
+
+
+Deleting min value, and printing heap:
+
+Heap = 44 52 66 88 67 77 93 
+Heap = 52 67 66 88 93 77 
+Heap = 66 67 77 88 93 
+Heap = 67 88 77 93 
+Heap = 77 88 93 
+Heap = 88 93 
+Heap = 93 

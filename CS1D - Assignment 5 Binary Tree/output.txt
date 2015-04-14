@@ -1,0 +1,20 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 2/24/2015
+ * ASIGNMENT #     : 5
+ * ASSIGNMENT NAME : Binary Trees
+ ******************************************************************************/
+
+Enter a letter to add to Binary Tree: A
+Enter a letter to add to Binary Tree: B
+Enter a letter to add to Binary Tree: C
+Enter a letter to add to Binary Tree: D
+Enter a letter to add to Binary Tree: E
+Enter a letter to add to Binary Tree: F
+Enter a letter to add to Binary Tree: G
+
+Outputting tree using post order traversal: 
+ G  F  E  D  C  B  A 
+Outputting tree using preorder traversal: 
+ A  B  C  D  E  F  G 

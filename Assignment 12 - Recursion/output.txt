@@ -1,0 +1,20 @@
+/******************************************************************************
+ * Josh Montgomery
+ * CS1C Fall 2014
+ * 11/13/2014
+ * Assignment 12 - Recursion
+ ******************************************************************************/
+Enter a beginning index: 13
+Enter an ending index: 20
+
+OUTPUT: abcdefghijkltsrqponmuvwxyz
+
+Enter a beginning index: 6
+Enter an ending index: 22
+
+OUTPUT: abcdevutsrqponmlkjihgfwxyz
+
+Print alphabet in reverse order using recursion
+Press any key to continue . . . 
+
+OUTPUT: zyxwvutsrqponmlkjihgfedcba

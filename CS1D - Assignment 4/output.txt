@@ -1,0 +1,984 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 2/17/2015
+ * ASIGNMENT #     : 4
+ * ASSIGNMENT NAME : Queue-DeQue Vector 
+ ******************************************************************************/
+ 
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 0
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Empty! No Front
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+Cant display an empty queue
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 2
+Can't dequeue from an empty list!
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 1
+Enter a string to enqueue: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 1
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 1
+Enter a string to enqueue: Was it a car or a cat I saw?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 1
+Enter a string to enqueue: Sit on a potato pan, Otis
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 3
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: A man, a plan, a canal, Panama
+2: Was it a car or a cat I saw?
+3: Sit on a potato pan, Otis
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 1
+Enter a string to enqueue: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 4
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: A man, a plan, a canal, Panama
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: A man, a plan, a canal, Panama
+2: Was it a car or a cat I saw?
+3: Sit on a potato pan, Otis
+4: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 3
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: Was it a car or a cat I saw?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: Was it a car or a cat I saw?
+2: Sit on a potato pan, Otis
+3: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: Sit on a potato pan, Otis
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: Sit on a potato pan, Otis
+2: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 1
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is NOT empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Front: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+
+1: Isn’t this class cool?
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 2
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 3
+Size of Queue is: 0
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 4
+Queue is empty
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 5
+Empty! No Front
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 6
+Cant display an empty queue
+
+String-Queue Options
+--------------------
+1.    Enqueue
+2.    Dequeue
+3.    Size
+4.    Empty
+5.    Front
+6.    Display
+0.    EXIT
+
+Selection: 0
+
+VECTOR ADT
+---------------------------------------------
+Enter a size to allocate for Vector: 3
+Enter a value to fill the vector: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+
+1: 9
+2: 9
+3: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 4
+Size of vector is 3
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 5
+Vector is NOT empty
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 6
+Front: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 1
+Enter a value to push_back: 1111
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+
+1: 9
+2: 9
+3: 9
+4: 1111
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 4
+Size of vector is 4
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+
+1: 9
+2: 9
+3: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 4
+Size of vector is 3
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 3
+Enter a value to insert into vector: 777
+Enter an index of the vector in which to insert  it: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+
+1: 9
+2: 777
+3: 9
+4: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 4
+Size of vector is 4
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 3
+Enter a value to insert into vector: 222
+Enter an index of the vector in which to insert  it: 1
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+
+1: 222
+2: 9
+3: 777
+4: 9
+5: 9
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 6
+Front: 222
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 7
+Cant display an empty queue
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 2
+Empty!
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 4
+Size of vector is 0
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 6
+Empty! No Front
+
+Integer-Vector Options
+--------------------
+1.    Push Back
+2.    Pop Back
+3.    Insert
+4.    Size
+5.    Empty
+6.    Front
+7.    Display
+0.    EXIT
+
+Selection: 0

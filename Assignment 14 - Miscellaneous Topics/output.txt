@@ -1,0 +1,102 @@
+/******************************************************************************
+ * Josh Montgomery
+ * CS1C Fall 2014
+ * 12/04/2014
+ * Assignment 14 - Miscellaneous Topics
+ ******************************************************************************/
+
+1. Using the time functions 
+***************************
+
+Today's date: Thu Dec 04 16:31:30 2014
+Date 88 days from now: Mon Mar 02 16:31:30 2015
+
+Sat Jul 26 01:00:00 2014
+Wed Dec 24 00:00:00 2014
+difference = 151 days
+2. Using the built-in math routines 
+***********************************
+
+sqrt error number is Unknown error
+sqrt of -2 is -2147483648
+
+divide by zero error number is Interrupted function call
+4 divided by zero is: -2147483648
+
+natural log of negative number error is: Unknown error
+natural log of -2 is: -2147483648
+
+1.0e18 + 4 - 1.0e18 is: 
+No error
+
+Fixing problem: 
+1.0e18 - 1.0e18 + 4 is: 4
+Interrupted function call
+
+3. Pointers to functions 
+************************
+Cube of 23 is: 12167
+Cube root of 27 is: 3
+Cube of 5 is: 125
+Cube root of 8 is: 2
+
+4a. Bit count for capital letters
+***********************************
+Bit count for A = 2
+Bit count for B = 2
+Bit count for C = 3
+Bit count for D = 2
+Bit count for E = 3
+Bit count for F = 3
+Bit count for G = 4
+Bit count for H = 2
+Bit count for I = 3
+Bit count for J = 3
+Bit count for K = 4
+Bit count for L = 3
+Bit count for M = 4
+Bit count for N = 4
+Bit count for O = 5
+Bit count for P = 2
+Bit count for Q = 3
+Bit count for R = 3
+Bit count for S = 4
+Bit count for T = 3
+Bit count for U = 4
+Bit count for V = 4
+Bit count for W = 5
+Bit count for X = 3
+Bit count for Y = 4
+Bit count for Z = 4
+
+4b. Bit count for lower-case letters
+**************************************
+Bit count for a = 3
+Bit count for b = 3
+Bit count for c = 4
+Bit count for d = 3
+Bit count for e = 4
+Bit count for f = 4
+Bit count for g = 5
+Bit count for h = 3
+Bit count for i = 4
+Bit count for j = 4
+Bit count for k = 5
+Bit count for l = 4
+Bit count for m = 5
+Bit count for n = 5
+Bit count for o = 6
+Bit count for p = 3
+Bit count for q = 4
+Bit count for r = 4
+Bit count for s = 5
+Bit count for t = 4
+Bit count for u = 5
+Bit count for v = 5
+Bit count for w = 6
+Bit count for x = 4
+Bit count for y = 5
+Bit count for z = 5
+Total Bits On: 198
+
+Program time in nanoseconds: 1

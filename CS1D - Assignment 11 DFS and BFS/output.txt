@@ -1,0 +1,15 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 4/7/2015
+ * ASIGNMENT #     : 11
+ * ASSIGNMENT NAME : DFS & BFS
+ *******************************************************************************/
+
+Depth First Search
+----------------------------------------------------------------
+BOSTON-> NEW_YORK-> CHICAGO-> SEATTLE-> SAN_FRAN-> LOS_ANGELES-> DENVER-> KANSAS_CITY-> ATLANTA-> MIAMI-> HOUSTON-> DALLAS-> END
+
+Breadth First Search
+----------------------------------------------------------------
+BOSTON-> NEW_YORK-> CHICAGO-> ATLANTA-> SEATTLE-> MIAMI-> SAN_FRAN-> DENVER-> HOUSTON-> LOS_ANGELES-> DALLAS-> KANSAS_CITY-> END

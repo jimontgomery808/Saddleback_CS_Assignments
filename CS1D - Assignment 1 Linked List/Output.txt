@@ -1,0 +1,20 @@
+****************************************
+PROGRAMMER        : JOSH MONTGOMERY
+CLASS             : CS1D SPRING 2015
+DATE              : 1/27/2015
+ASSIGNMENT #      : 1
+ASSIGNMENT NAME   : Queue Palindrome
+****************************************
+
+Phrase/Word                            Palindrome?
+-------------------------------------  -----------
+dad                                     YES
+radar                                   YES
+Otto                                    YES
+mom                                     YES
+tigers                                  NO
+A man, a plan, a canal, Panama          YES
+Isn’t this class cool?                  NO
+Was it a car or a cat I saw?            YES
+Sit on a potato pan, Otis               YES
+Saddleback is a great place to learn    NO

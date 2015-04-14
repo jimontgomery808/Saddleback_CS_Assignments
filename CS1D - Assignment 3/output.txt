@@ -1,0 +1,241 @@
+****************************************
+PROGRAMMER        : Josh Montgomery
+CLASS             : CS1D
+DATE              : 02/10/2015
+ASSIGNMENT #      : 3
+ASSIGNMENT NAME   : Stacks and Deques
+****************************************
+Outputting contents of string vector:
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Eric
+
+Outputting contents of integer vector:
+1: 98 
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 354
+
+Outputting contents of double vector:
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 12.4
+
+Outputting contents of string vector after calling pop_back:
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+
+Outputting contents of integer vector after calling pop_back:
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+
+Outputting contents of double vector after calling pop_back:
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+
+Displaying contents of Singly Linked List (string)
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Eric
+
+Displaying contents of Singly Linked List(int)
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 354
+
+Displaying contents of Singly Linked List(double)
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 12.4
+
+Popping Singly Linked List (string)
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+
+Popping Singly Linked List (integer)
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+
+Popping Singly Linked List (double)
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+
+Pushing Josh onto the string stack:
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Josh
+
+Pushing 500 onto the integer stack:
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 500
+
+Pushing 500.00 onto the double stack:
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 500
+
+Displaying contents of DEQUE(string)
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Eric
+
+Displaying contents of DEQUE(int)
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 354
+
+Displaying contents of DEQUE(double)
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 12.4
+
+Testing push_front and push_back functions (string, 'front' pushed to front, 'back' pushed to back):
+1: Front
+2: Paula
+3: JoAnn
+4: Jack
+5: Mark
+6: Paul
+7: Eric
+8: Back
+
+Testing push_front and push_back functions (integer, '100' pushed to front, '0' pushed to back):
+1: 100
+2: 98
+3: 88
+4: 88
+5: 123
+6: 8445
+7: 9833
+8: 12
+9: 354
+10: 0
+
+Testing push_front and push_back functions (double, '100.00' pushed to front, '0.00' pushed to back):
+1: 100
+2: 2788.12
+3: 243.76
+4: 8445.56
+5: 19833.1
+6: 12.4
+7: 0
+
+Testing the pop_front function(string):
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Eric
+7: Back
+
+Testing the pop_front function(integer):
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 354
+9: 0
+
+Testing the pop_front function(double):
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 12.4
+6: 0
+
+Testing the pop_back function(string):
+1: Paula
+2: JoAnn
+3: Jack
+4: Mark
+5: Paul
+6: Eric
+
+Testing the pop_back function(integer):
+1: 98
+2: 88
+3: 88
+4: 123
+5: 8445
+6: 9833
+7: 12
+8: 354
+
+Testing the pop_back function(double):
+1: 2788.12
+2: 243.76
+3: 8445.56
+4: 19833.1
+5: 12.4
+
+{2x+3} {7x+8}: VALID EQUATION
+{2x + 5) (6x+4)}: INVALID EQUATION
+[(8x+5) - 4x[9x+3]]: VALID EQUATION
+{(8x+5) - 5x[9x+3]}): INVALID EQUATION
+(((8x+5) - x[9x+3]))): INVALID EQUATION
+(((8x+5) - x[9x+3]))): INVALID EQUATION

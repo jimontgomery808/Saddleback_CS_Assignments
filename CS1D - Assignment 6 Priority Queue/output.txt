@@ -1,0 +1,33 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 3/2/2015
+ * ASIGNMENT #     : 6
+ * ASSIGNMENT NAME : Priority Queue
+ ******************************************************************************/
+
+STL Implementation of Priority Queue: 
+
+1. Name: Frank Feelingbad
+2. Name: Cathy Coughing
+3. Name: Sam Sneezing
+4. Name: Tom Temperature
+5. Name: Sid Sicklly
+6. Name: Alice Ailment
+7. Name: Paula Pain
+8. Name: Bob Bleeding
+9. Name: Irene Ill
+
+
+My Own Implemenation of Priority Queue: 
+
+Priority       Item
+9                 Irene Ill
+8                 Bob Bleeding
+7                 Alice Ailment
+6                 Paula Pain
+5                 Sid Sicklly
+4                 Tom Temperature
+3                 Cathy Coughing
+2                 Sam Sneezing
+1                 Frank Feelingbad

@@ -1,0 +1,17 @@
+Name
+Number
+Distance from 1
+Distance from 2
+Distance from 3
+Distance from 4
+Distance from 5
+Distance from 6
+Distance from 7
+Distance from 8
+Distance from 9
+Distance from 10
+Miles from Canyon villa
+Number of wines offered
+Wine offered (number varies)
+Wine year
+Wine Price

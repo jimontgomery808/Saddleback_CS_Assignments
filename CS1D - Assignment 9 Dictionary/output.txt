@@ -1,0 +1,297 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY & STEVEN GRENROCK
+ * CLASS      	   : CS1D SPRING 2015
+ * DATE       	   : 3/31/2015
+ * ASIGNMENT #     : 9
+ * ASSIGNMENT NAME : Dictionary
+ *******************************************************************************/
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 18
+Enter a city: Laguna Niguel
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 18
+Enter a city: Mission Viejo
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 22
+Enter a city: Lake Forest
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 44
+Enter a city: Irvine
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 44
+Enter a city: San Clemente
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 32
+Enter a city: San Diego
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 49
+Enter a city: Anaheim
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 3
+{18 Laguna Niguel,22 Lake Forest,32 San Diego,44 Irvine,49 Anaheim}
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 2
+Enter a key to delete from list: 22
+Erased 22
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 3
+{18 Laguna Niguel,32 San Diego,44 Irvine,49 Anaheim}
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 73
+Enter a city: Los Angeles
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 17
+Enter a city: Orange
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 32
+Enter a city: Palm Springs
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 26
+Enter a city: Riverside
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 3
+{17 Orange,18 Laguna Niguel,26 Riverside,32 San Diego,44 Irvine,49 Anaheim,73 Los Angeles}
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 2
+Enter a key to delete from list: 49
+Erased 49
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 3
+{17 Orange,18 Laguna Niguel,26 Riverside,32 San Diego,44 Irvine,73 Los Angeles}
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 19
+Enter a city: Brea
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 60
+Enter a city: Santa Ana
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 35
+Enter a city: Tustin
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 52
+Enter a city: Oceanside
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 11
+Enter a city: La Jolla
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 18
+Enter a city: Del Mar
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 22
+Enter a city: Aliso Viejo
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 1
+Enter a key: 49
+Enter a city: Laguna Beach
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 3
+{11 La Jolla,17 Orange,18 Laguna Niguel,19 Brea,22 Aliso Viejo,26 Riverside,32 San Diego,35 Tustin,44 Irvine,49 Laguna Beach,52 Oceanside,60 Santa Ana,73 Los Angeles}
+
+SKIP LIST
+--------------------------
+1.     Insert
+2.     Delete
+3.     Display Skip List
+0.     Exit
+
+Selection: 0

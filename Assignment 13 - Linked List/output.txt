@@ -1,0 +1,86 @@
+/******************************************************************************
+ * PROGRAMMER 	   : JOSH MONTGOMERY
+ * CLASS      	   : CS1C FALL 2014
+ * DATE       	   : 11/20/2014
+ * ASIGNMENT #     : 13
+ * ASSIGNMENT NAME : LINKED LIST
+ ******************************************************************************/
+
+INTEGER LIST
+---------------------------------------------------------
+Please enter an integer value to input into integer list: 6
+Please enter an integer value to input into integer list: 8
+Please enter an integer value to input into integer list: 11
+Please enter an integer value to input into integer list: 23
+Please enter an integer value to input into integer list: 656
+List contents: 6 8 11 23 656 
+
+Copied list, and reversed contents
+Second list contents: 656 23 11 8 6 
+
+Enter an integer value to delete from first list: 11
+First list contents: 6 8 23 656 
+Enter an integer value to delete from first list: 66
+66 is not in the list.
+
+Enter an integer value to delete from second list: 11
+Second list contents: 656 23 8 6 
+Enter an integer value to delete from second list: 56698
+56698 is not in the list.
+
+Enter an integer value to insert into middle of first list: 70
+First list contents: 6 8 70 23 656 
+
+Enter a value to insert into middle of second list: 99
+Second list contents: 656 23 99 8 6 
+
+***** Destroying first list *****
+The list is empty.
+Enter an integer value to delete from first list: 65
+Can not delete from an empty list.
+
+
+***** Destroying second list *****
+The list is empty.
+Enter an integer value to delete from second list: 12
+Can not delete from an empty list.
+
+
+DOUBLE LIST
+---------------------------------------------------------
+Please enter a double value to input into double list: 23.2
+Please enter a double value to input into double list: 569.2
+Please enter a double value to input into double list: 111.2
+Please enter a double value to input into double list: 563.2
+Please enter a double value to input into double list: 1.1
+List contents: 23.2 569.2 111.2 563.2 1.1 
+
+Copied list, and reversed contents
+Second list contents: 1.1 563.2 111.2 569.2 23.2 
+
+Enter a double value to delete from first list: 111.2
+First list contents: 23.2 569.2 563.2 1.1 
+Enter a double value to delete from first list: 6.5
+6.5 is not in the list.
+
+Enter a double value to delete from second list: 111.2
+Second list contents: 1.1 563.2 569.2 23.2 
+Enter a double value to delete from second list: 99.7
+99.7 is not in the list.
+
+Enter a double value to insert into middle of first list: 50.2
+First list contents: 23.2 569.2 50.2 563.2 1.1 
+
+Enter a double value to insert into middle of second list: 33.2
+Second list contents: 1.1 563.2 33.2 569.2 23.2 
+
+***** Destroying first list *****
+The list is empty.
+Enter a double value to delete from first list: 65.2
+Can not delete from an empty list.
+
+
+***** Destroying second list *****
+The list is empty.
+Enter a double value to delete from second list: 12.2
+Can not delete from an empty list.
